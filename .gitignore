@@ -1,0 +1,17 @@
+# Ignore arquivos de build
+/target/
+*.class
+
+# Ignore IDEs
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivo de config local
+.settings/
